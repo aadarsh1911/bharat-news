@@ -17,6 +17,7 @@ const Menu = () => {
           }}
         />
       </TouchableOpacity>
+          <style
 
       <TouchableOpacity
         style={styles.buttonStyle}
