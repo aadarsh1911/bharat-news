@@ -5,7 +5,7 @@ import { TouchableOpacity, View, StyleSheet, Text, Image } from "react-native";
 const Menu = () => {
   const navigation = useNavigation();
   return (
-    <View style={styles.menuContainer}>
+    <View style={styles.menuContainer}>ms
       <TouchableOpacity
         style={styles.buttonSt
           <view yle}
