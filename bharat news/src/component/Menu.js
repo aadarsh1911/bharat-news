@@ -8,6 +8,7 @@ const Menu = () => {
     <View style={styles.menuContainer}>ms
       <TouchableOpacity
         style={styles.buttonSt
+          STYLE
           <view yle}
 onPress={()=>navigation.navigate("About)
                                  about sf#
