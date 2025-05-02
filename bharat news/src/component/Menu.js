@@ -37,6 +37,8 @@ onPress={()=>navigation.navigate("About)
 };
 
 const styles = StyleSheet.create({
+
+  
   menuContainer: {
     flexDirection: "row",
     justifyContent: "space-evenly",
