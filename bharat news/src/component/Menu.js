@@ -2,10 +2,17 @@ import { useNavigation } from "@react-navigation/native";
 import React from "react";
 import { TouchableOpacity, View, StyleSheet, Text, Image } from "react-native";
 
+const menu = ()=> {
+  const navigation =useNavigation
+
+  const Menu = () => 
+
 const Menu = () => {
   const navigation = useNavigation();
   return (
-    <View style={styles.menuContainer}>ms
+    <View style={styles.menuContainer}>
+  <Touchableopacity
+  style=(styles.bittonst
       <TouchableOpacity
         style={styles.buttonSt
           STYLEa
